@@ -1,0 +1,9 @@
+https://github.com/ujwalmahule/stock-market-ui.git
+https://github.com/ujwalmahule/stock-market-service.git
+https://github.com/ujwalmahule/stock-market-upload-service.git
+https://github.com/ujwalmahule/stock-market-user-service.git
+https://github.com/ujwalmahule/config-server.git
+https://github.com/ujwalmahule/stock-market-config.git
+https://github.com/ujwalmahule/stock-market-discovery-service.git
+https://github.com/ujwalmahule/stock-market-file-processing-service.git
+https://github.com/ujwalmahule/stock-market-apigateway.git
